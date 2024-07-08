@@ -1,0 +1,35 @@
+#productDiv img{
+    height: 250px;
+    width: 250px;
+}
+
+.card:hover{
+    background-color: aliceblue !important;
+}
+
+.card{
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img{
+    margin-top: 10px;
+    border-radius: 25px;
+}
+
+.navbar{
+    border-radius: 25px;
+}
+
+.navbar select{
+    outline: none;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+}
+
+.maintext:hover{
+    color: rgb(190, 242, 255) !important;
+}
